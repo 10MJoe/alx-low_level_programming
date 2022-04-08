@@ -11,7 +11,7 @@ char upper_case;
 
 for
 (lower_case = 'a';
-lower_casee <= 'z';
+lower_case <= 'z';
 lower_case++)
 
 putchar(lower_case);
