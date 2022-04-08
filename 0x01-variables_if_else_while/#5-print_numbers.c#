@@ -14,9 +14,9 @@ for
 a <= 9;
 a++)
 
-putchar(a);
+printf(a);
 
-putchar('\n');
+printf('\n');
 
 return (0);
 
