@@ -23,7 +23,7 @@ lower_case++)
 
 putchar(lower_case);
 
-putchar ('\n')
+putchar('\n')
 
 return (0);
 }
