@@ -8,8 +8,8 @@ int main(void)
 char alphabet;
 
 for
-(alphabet = a;
-alphabet >= z;
+(alphabet = 122;
+alphabet >= 97;
 alphabet--)
 
 {
