@@ -1,18 +1,17 @@
 #include <stdio.h>
 /**
- * main - Entry point
+ * main - Entry Point
  *
  * Return: 0
  */
 int main(void)
 {
-char alphabet;
+char c;
 
-for (alphabet = 'a'; alphabet <= 'z'; alphabet++);
+for (c = 0; c < 26; ++c);
+putchar('a' + c);
 
-putchar(alphabet);
 putchar('\n');
 
 return (0);
-
 }
