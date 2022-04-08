@@ -12,9 +12,9 @@ for
 a < 10;
 a++)
 {
-printf("%a", a);
+printf("a", a);
 }
-printf("\n");
+printf('\n');
 
 return (0);
 
