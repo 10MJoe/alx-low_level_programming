@@ -12,7 +12,7 @@ for
 a < 10;
 a++)
 {
-printf("a", a);
+printf(a);
 }
 printf('\n');
 
