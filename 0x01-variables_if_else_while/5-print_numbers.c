@@ -11,7 +11,7 @@ char a;
 
 for
 (a = 0;
-a <= 9;
+a < 10;
 a++)
 
 putchar(a);
