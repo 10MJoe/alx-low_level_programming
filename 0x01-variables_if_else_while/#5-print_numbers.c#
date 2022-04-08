@@ -12,9 +12,9 @@ for
 a <= 10;
 a++)
 
-printf(a);
+putchar(a);
 
-printf('\n');
+putchar('\n');
 
 return (0);
 
