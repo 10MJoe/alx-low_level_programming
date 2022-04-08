@@ -12,7 +12,9 @@ for
 alphabet >= 'z';
 alphabet--)
 
+{
 putchar(alphabet);
+}
 
 putchar('\n');
 
