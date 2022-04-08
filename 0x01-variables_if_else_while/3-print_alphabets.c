@@ -7,7 +7,7 @@
 int main(void)
 {
 char upper_case;
-char upper_case;
+char lower_case;
 
 for
 (upper_case = 'A';
