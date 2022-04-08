@@ -5,12 +5,13 @@
  * Return: 0
  */
 int main(void)
+
 {
-int a;
+char a;
 
 for
 (a = 0;
-a <= 10;
+a <= 9;
 a++)
 
 putchar(a);
