@@ -1,24 +1,30 @@
-#include <stdio.h>
+#include <stdio>
 /**
  * main - Entry point
- *
  * Return: 0
  */
 int main(void)
-
 {
-char a;
+
+int a;
 
 for
-(a = 0;
-a < 10;
+(a = 48;
+a <=57;
 a++)
 
+{
 putchar(a);
+if (a == 57)
+{
+break;
+}
+putchar(',');
+putchar(' ');
+}
 
 putchar('\n');
 
 return (0);
 
 }
-
