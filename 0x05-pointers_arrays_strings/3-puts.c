@@ -16,7 +16,7 @@ for
 c[d];
 d++)
 {
-_putchar(c[d]);
+_putchar (c[d]);
 }
 
 }
