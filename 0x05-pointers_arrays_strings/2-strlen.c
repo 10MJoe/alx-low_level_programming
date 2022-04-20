@@ -12,7 +12,7 @@ d = 0;
 
 while (s[d] != '\0')
 {
-d++
+d++;
 }
-return (d)
+return (d);
 }
