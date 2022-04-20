@@ -18,5 +18,5 @@ d++)
 {
 _putchar(c[d]);
 }
--putchar('\n');
+
 }
