@@ -19,5 +19,5 @@ for
 b >= 0;
 b--)
 {
-_putchar(s[i]);
+_putchar(s[b]);
 }
